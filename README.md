@@ -109,7 +109,6 @@ AlohaCoin is built with industry best practices using battle-tested OpenZeppelin
 Built for the people. Auditable, fair, and optimized for long-term utility.
 
 **Website:** [https://alohacoin.ai](https://alohacoin.ai)  
-**Telegram:** [https://t.me/alohacoin](https://t.me/alohacoin)  
-**Twitter:** [https://twitter.com/alohacoin](https://twitter.com/alohacoin)
+**Twitter (X):** [https://twitter.com/AlohaCoinHQ](https://twitter.com/AlohaCoinHQ)
 
 ---
